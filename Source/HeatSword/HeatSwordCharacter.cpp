@@ -127,3 +127,4 @@ void AHeatSwordCharacter::MoveRight(float Value)
 		AddMovementInput(Direction, Value);
 	}
 }
+
